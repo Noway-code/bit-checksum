@@ -1,5 +1,5 @@
 # bit-checksum
-Uploading assignments written without version control.
+Uploading projects written without version control.
 
 ## Calculating an 8, 16, or 32 bit checksum on an ASCII input file
 
